@@ -1,0 +1,1 @@
+Projeto feito para aprimorar conhecimentos de HTML, CSS e JavaScript.
